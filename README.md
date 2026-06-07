@@ -82,3 +82,6 @@ This project demonstrates the practical implementation of database-driven applic
 Computer Science Undergraduate | Python Developer | AI/ML Enthusiast
 
 GitHub: https://github.com/Anjanaaah
+
+<img width="735" height="699" alt="image" src="https://github.com/user-attachments/assets/e662db81-2740-4346-8998-4d47ca1f4115" />
+
